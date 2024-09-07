@@ -1,0 +1,31 @@
+.empire_member {
+    background-color: red;
+}
+
+.rebel_member {
+    background-color: blue;
+}
+
+#darth_vader {
+    font-size: 2rem;
+}
+
+#luke_skywalker { 
+    font-style: italic;
+}
+
+.soldier-border {
+    border: 2px dashed black;
+}
+
+.soldier-spacing {
+    letter-spacing: 0.2rem;
+}
+
+.support_unit {
+    text-align: center;
+}
+
+.ship {
+    text-transform: uppercase;
+}
